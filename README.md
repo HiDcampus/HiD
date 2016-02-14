@@ -36,4 +36,4 @@
 트위터  https://twitter.com/hidcampus
 
 
-:grin:3월에 런칭예정입니다:grin:
+:hammer: 런칭할 날이 얼마 남지 않았어요
