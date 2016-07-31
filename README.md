@@ -36,4 +36,4 @@
 트위터  https://twitter.com/hidcampus
 
 
-:hammer: 런칭할 날이 얼마 남지 않았어요 :sweat_drops:
+:hammer: 홀딩중... :sweat_drops:
