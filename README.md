@@ -12,11 +12,11 @@
 
 >만든 사람들
 
-![profile image](https://github.com/HiDcampus/HiD/blob/master/profileimage/hid_anna.png) 디렉팅과 디자인을 잘하는 Anna choheej@gmail.com
+![profile image](https://github.com/HiDcampus/HiD/blob/master/profileimage/hid_anna.png) 디렉팅과 디자인을 잘하는 Anna 
 
-![profile image](https://github.com/HiDcampus/HiD/blob/master/profileimage/hid_naro.png) n개 국어를 하는 Naro  Oran.kwon@gmail.com
+![profile image](https://github.com/HiDcampus/HiD/blob/master/profileimage/hid_naro.png) n개 국어를 하는 Naro  
 
-![profile image](https://github.com/HiDcampus/HiD/blob/master/profileimage/hid_lucy.png) 개발과 디자인을 하는 Lucy yureka5345@gmail.com
+![profile image](https://github.com/HiDcampus/HiD/blob/master/profileimage/hid_lucy.png) 개발과 디자인을 하는 Lucy 
 
 
 >고마운 분들
